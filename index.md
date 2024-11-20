@@ -20,4 +20,4 @@ title: 2025 Bitcoin Conferences
 | Bitcoin Atlantis                   | Portugal      | Madeira Island   | [Bitcoin Atlantis](https://bitcoinatlantis.com/)                                      |
 | Bitcoin Ski Summit                 | USA           | Teton Village, WY| [Après Tech](https://www.apres.tech/bitcoin-ski-summit-2024)                          |
 | Advancing Bitcoin Developer Conf   | UK            | London           | [Advancing Bitcoin](https://www.advancingbitcoin.com/)                                |
-| 100k party conf                    | UK            | London           | [100k](https://100k.com/)                                                             |
+
