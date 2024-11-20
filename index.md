@@ -7,7 +7,7 @@ title: 2024 Bitcoin Conferences
 
 | **Date**        | **Name**                                  | **Country**          | **City**                  | **Info**                                                                                 |
 |------------------|-------------------------------------------|----------------------|---------------------------|-----------------------------------------------------------------------------------------|
-| **Jan 3rd**     | Bitcoin Block Party                      | USA                  | Dallas, TX                | [Eventbrite](https://www.eventbrite.com/e/bitcoin-block-party-wednesday-january-3-2024-in-dallas-texas-tickets-755577240867) |
+| **Jan 17-18**     | Bitcoin Medellin                     | Colombia                 | Medellin               | [Website](https://bitcoinmedellin.com/) |
 | **Jan 18-19**   | Nashville Energy & Mining Summit         | USA                  | Nashville, TN             | [Meetup](https://www.meetup.com/bitcoinpark/events/290980686/)                          |
 | **Jan 18-20**   | Bitcoin Freedom Fest                     | Costa Rica           | Uvita                     | [Website](https://www.bitcoinfreedomfestival.com/)                                      |
 | **Jan 20th**    | Bitcoin Day Naples                       | USA                  | Naples, FL                | [Website](https://bitcoinday.io/naples24)                                               |
