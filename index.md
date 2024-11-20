@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 2024 Bitcoin Conferences
+title: 2025 Bitcoin Conferences & Events
 ---
 
-# 2024 Bitcoin Conferences
+# 2025 Bitcoin Conferences
 
 | **Date**        | **Name**                                  | **Country**          | **City**                  | **Info**                                                                                 |
 |------------------|-------------------------------------------|----------------------|---------------------------|-----------------------------------------------------------------------------------------|
-| **Jan 17-18**     | Bitcoin Medellin                     | Colombia                 | Medellin               | [Website](https://bitcoinmedellin.com/) |
-| **Jan 18-19**   | Nashville Energy & Mining Summit         | USA                  | Nashville, TN             | [Meetup](https://www.meetup.com/bitcoinpark/events/290980686/)                          |
-| **Jan 18-20**   | Bitcoin Freedom Fest                     | Costa Rica           | Uvita                     | [Website](https://www.bitcoinfreedomfestival.com/)                                      |
+| **Jan 17-18**     | Bitcoin Medellin                     | Colombia                 | Medellin               | [Website](https://bitcoinmedellin.com/                      |
+**Jan30-31**   | Plan B Forum                   | El Salvador          | San Salvador                  | [Website](https://planb.sv/)  
+| **Feb 13-15**   | Bitcoin Freedom Fest                     | Costa Rica           | Uvita                     | [Website](https://www.bitcoinfreedomfestival.com/)                                      |
 | **Jan 20th**    | Bitcoin Day Naples                       | USA                  | Naples, FL                | [Website](https://bitcoinday.io/naples24)                                               |
 | **Jan 26-28**   | Adopting Bitcoin                         | South Africa         | Cape Town                 | [Website](https://adoptingbitcoin.org/capetown-2024/)                                   |
 | **Feb 3rd**     | Sound Money Soiree                      | USA                  | Tampa Bay, FL             | [Website](https://www.bitcoinbay.live/sound-money-soiree)                               |
