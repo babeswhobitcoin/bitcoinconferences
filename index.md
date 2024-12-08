@@ -16,13 +16,7 @@ title: 2025 Bitcoin Conferences & Events
 | **Feb 19-22**   | Bitcoin++                                | Brazil            | Florianópolis              | [Website](https://btcplusplus.dev/conf/floripa)   
 | **March 1**    | BitKiwi XI                            | New Zealand          | Queenstown                | [Twitter](https://twitter.com/Bitkiwi1)                                                 |
 | **March 5-9**   | Bitcoin Ski Summit                       | USA                  | Teton Village, WY         | [Website](https://apres.tech/v40-bitcoin-ski-summit-2025)                               |
-| **March 8**    | Bitcoin Alive                            | Australia            | Sydney                    | [Website](https://bitcoinalive.io/)                                                     |
-| **March 26-27** | Empower Energizing Bitcoin              | USA                  | Houston, TX               | [Website](https://digitalwildcatters.com/event/empower-energizing-bitcoin/)             |
-| **April 3-5**   | Bitcoin Halving Party                    | El Salvador          | El Salvador               | [Website](https://bitcoinhalvingparty.com/)                                             |
-| **April 6**     | The Bitcoin Football Festival           | England              | Nottingham                | [Website](https://www.bitcoinnottingham.org/bitcoin-football-festival/)                |
-| **April 8**     | Economia Berlin                          | El Salvador          | Berlin, El Salvador       | [Twitter](https://twitter.com/EconomiaBtc)                                              |
-| **April 9**     | Bitcoin Policy Summit                   | USA                  | Washington DC             | [Website](https://www.btcpolicysummit.org/)                                             |
-| **April 12-13** | CheatCode                                | UK                   | Bedford                   | [Website](https://www.cheatcode.co.uk/)                                                 |
+| **March 8**    | Bitcoin Alive                            | Australia            | Sydney                    | [Website](https://bitcoinalive.io/)                                                     |                                       |     |
 | **April 3-6** | Bitblockboom                             | USA                  | Dallas, TX                | [Website](https://bitblockboom.com/)                                                    |
 | **April 13-14** | Santorini Halving Party                 | Greece               | Santorini                 | [Website](https://public.theorangepillapp.com/event/651ae68a651a9497e3a85e7d)          |
 | **May 5-8** | Bitcoin for Corporations         | USA              | Las Vegas, NV                 | [Website](https://www.microstrategy.com/en/world-2023/bitcoin-for-corporations)                            |
@@ -56,5 +50,7 @@ title: 2025 Bitcoin Conferences & Events
 | **December 15** | Bitcoin in Bali                        | Indonesia            | Bali                      | [Twitter](https://twitter.com/bitcoinbali)  
 | unconfirmed     | Bitcoin Oasis                            | UAE                  | Dubai                     | [Website](https://bitcoin-oasis.com/)     |
 | unconfirmed | Bush Bash                                | Australia            | Beechworth, Victoria      | [Website](https://bitcoinbushbash.info/)                                                |
+| unconfirmed     | Bitcoin Policy Summit                   | USA                  | Washington DC             | [Website](https://www.btcpolicysummit.org/)                                             |
+| unconfirmed | CheatCode                                | UK                   | Bedford                   | [Website](https://www.cheatcode.co.uk/)                                                 |
 
 
